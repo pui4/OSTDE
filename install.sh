@@ -1,2 +1,2 @@
-apt install kwin --no-install-recommends -y
+apt install kwin-x11 --no-install-recommends -y
 apt install plank -y
