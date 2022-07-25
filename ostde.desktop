@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=OSTDE
+Comment=An open source tablet DE
+Exec=/bin/ostde.sh
+Type=Application  
